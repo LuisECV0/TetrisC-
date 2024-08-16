@@ -1,0 +1,4 @@
+C:\Users\luisc\source\repos\TetrisV0.1\TetrisV0.1\obj\Debug\TetrisV0.1.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\TetrisV0.1\TetrisV0.1\obj\Debug\TetrisV0._1.Properties.Resources.resources
+C:\Users\luisc\source\repos\TetrisV0.1\TetrisV0.1\obj\Debug\TetrisV0.1.csproj.GenerateResource.cache
+C:\Users\luisc\source\repos\TetrisV0.1\TetrisV0.1\obj\Debug\TetrisV0.1.csproj.CoreCompileInputs.cache
